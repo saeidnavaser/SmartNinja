@@ -1,0 +1,18 @@
+html, body{
+  background-color: #CFCFCF;
+}
+
+p{
+/*color: red;*/
+margin-bottom: 35px;
+}
+p strong{
+  color: green;
+}
+.list{
+   color:red;
+}
+#uni{
+ color: blue;
+ font-size: 20px;
+}
