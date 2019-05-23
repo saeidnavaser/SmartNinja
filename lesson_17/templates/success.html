@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}
+  <title>contact</title>
+{% endblock title %}
+
+{% block contact %}
+{% if name %}
+  <h3>{{ name }}</h3>
+{% endif %}
+  <h4>{{ mail }}</h4>
+
+  <h4>{{ user_text }}</h4>
+{% endblock contact %}

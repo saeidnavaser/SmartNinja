@@ -6,5 +6,8 @@
     <mapping directory="$PROJECT_DIR$/lesson-05/Haircute-new" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lesson-05/haircute" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lesson-06/Haircute-new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_02/boogle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_05/haircute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_06/Haircute-new" vcs="Git" />
   </component>
 </project>

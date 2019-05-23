@@ -2,12 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f8f9c67-7b70-4492-adc8-aea339080c30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson-09/randomübung.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-09/recpt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-11/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-11/score_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-11/secretNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-01/bild/sma.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01/bild/sma.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-01/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-02/Boogle2/anonymous.png" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_02/Boogle2/anonymous.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-02/Boogle2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_02/Boogle2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-02/Boogle2/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_02/Boogle2/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-02/boogle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-03/css/style-3.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_03/css/style-3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-03/index-lesen3.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_03/index-lesen3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-04/css/style-4.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_04/css/style-4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-04/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_04/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-05/haircute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-06/Haircute-new" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-07/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_07/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_07/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-08/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-09/randomübung.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09/randomübung.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-09/recpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_09/recpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-11/main3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_11/main3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-11/score_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_11/score_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-11/secretNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_11/secretNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/templates/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/templates/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-15/templates/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_15/templates/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj-saeid/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/proj_saeid/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj-saeid/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/proj_saeid/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj-saeid/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/proj_saeid/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj-saeid/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/proj_saeid/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj-saeid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/proj_saeid/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,38 +48,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson-11/main3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson-11/secretNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson-11/score_list.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="97" selection-start-column="89" selection-end-column="97" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,12 +88,34 @@
         <option value="$PROJECT_DIR$/lesson-11/main3.py" />
         <option value="$PROJECT_DIR$/lesson-11/secretNumber.py" />
         <option value="$PROJECT_DIR$/lesson-11/score_list.txt" />
+        <option value="$PROJECT_DIR$/lesson-14/recept.py" />
+        <option value="$PROJECT_DIR$/lesson-14/new.py" />
+        <option value="$PROJECT_DIR$/lesson-14/BasketballPlayer.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/lesson-15/templates/imperesum.html" />
+        <option value="$PROJECT_DIR$/lesson-15/templates/impressum.html" />
+        <option value="$PROJECT_DIR$/lesson-15/main.py" />
+        <option value="$PROJECT_DIR$/lesson-15/templates/about.html" />
+        <option value="$PROJECT_DIR$/lesson-15/templates/portfolio.html" />
+        <option value="$PROJECT_DIR$/lesson-15/static/style.css" />
+        <option value="$PROJECT_DIR$/lesson-15/templates/index.html" />
+        <option value="$PROJECT_DIR$/lesson-15/static/css/style.css" />
+        <option value="$PROJECT_DIR$/lesson-17/templates/base.html" />
+        <option value="$PROJECT_DIR$/lesson-17/templates/contact.html" />
+        <option value="$PROJECT_DIR$/lesson-17/templates/about.html" />
+        <option value="$PROJECT_DIR$/lesson-17/templates/success.html" />
+        <option value="$PROJECT_DIR$/lesson-17/main.py" />
+        <option value="$PROJECT_DIR$/lesson-18/templates/index.html" />
+        <option value="$PROJECT_DIR$/lesson-18/user.py" />
+        <option value="$PROJECT_DIR$/lesson-18/main.py" />
+        <option value="$PROJECT_DIR$/lesson_18/user.py" />
+        <option value="$PROJECT_DIR$/lesson_18/main.py" />
+        <option value="$PROJECT_DIR$/lesson_18/templates/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -102,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,26 +133,24 @@
               <item name="smartninja" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartninja" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="smartninja" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smartninja" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sudired\PycharmProjects\smartninja\lesson-15\static\css" />
       <recent name="C:\Users\sudired\PycharmProjects\one1\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sudired\PycharmProjects\smartninja\lesson-14" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.secretNumber">
-    <configuration name="main-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="one1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +174,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-11/main-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-15/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="one1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-17" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-17/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="one1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-18/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="one1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_18/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,74 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-08/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="one1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-11/main3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="randomübung" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="one1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-09/randomübung.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="secretNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="one1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-11/secretNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,16 +273,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.secretNumber" />
-        <item itemvalue="Python.main3" />
-        <item itemvalue="Python.main-2" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.randomübung" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\sudired\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -277,18 +299,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554139995269</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add : lesson 15">
+      <created>1558627843051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558627843051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.20224719" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.20224719" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.2247191" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3838527" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3838527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,12 +333,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add : lesson 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add : lesson 6" />
+    <MESSAGE value="add : lesson 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="add : lesson 15" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/index.html" />
-    <entry file="file://$PROJECT_DIR$/style.css" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/css/style-3.css" />
     <entry file="file://$PROJECT_DIR$/index-lesen3.html" />
@@ -324,21 +351,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson-06/index.html" />
     <entry file="file://$PROJECT_DIR$/lesson-06/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/lesson-08/main.py">
+    <entry file="file://$PROJECT_DIR$/lesson_08/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-saeid/css/style.css">
+    <entry file="file://$PROJECT_DIR$/proj_saeid/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-saeid/index.html">
+    <entry file="file://$PROJECT_DIR$/proj_saeid/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -348,55 +375,204 @@
     <entry file="file://$PROJECT_DIR$/../new1pro/one.py" />
     <entry file="file://$PROJECT_DIR$/lesson-09/main.py" />
     <entry file="file://$PROJECT_DIR$/lesson-09/racpt.py" />
-    <entry file="file://$PROJECT_DIR$/lesson-09/recpt.py">
+    <entry file="file://$PROJECT_DIR$/lesson_09/recpt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-09/randomübung.py">
+    <entry file="file://$PROJECT_DIR$/lesson_09/randomübung.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-11/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-11/main-2.py">
+    <entry file="file://$PROJECT_DIR$/lesson-11/main.py" />
+    <entry file="file://$PROJECT_DIR$/lesson-11/main-2.py" />
+    <entry file="file://$PROJECT_DIR$/lesson_11/score_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="7" />
+          <caret column="97" selection-start-column="89" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-11/main3.py">
+    <entry file="file://$PROJECT_DIR$/lesson_11/main3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-11/secretNumber.py">
+    <entry file="file://$PROJECT_DIR$/lesson_11/secretNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-11/score_list.txt">
+    <entry file="file://$USER_HOME$/Downloads/BasketballPlayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_14/basketballplayer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="97" selection-start-column="89" selection-end-column="97" />
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_14/BasketballPlayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_14/new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_14/recept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/lesson-15/templates/imperesum.html" />
+    <entry file="file://$PROJECT_DIR$/lesson_15/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_15/templates/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_15/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_15/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_15/templates/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_15/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/app.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/templates/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_17/templates/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_18/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" selection-start-column="57" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_18/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_18/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_18/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
